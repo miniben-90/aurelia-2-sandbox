@@ -1,6 +1,5 @@
-import Aurelia from 'aurelia';
-import { MyApp } from './my-app';
+import Aurelia from "aurelia";
+import { RouterConfiguration } from '@aurelia/router-lite';
+import { MyApp } from "./my-app";
 
-Aurelia
-  .app(MyApp)
-  .start();
+Aurelia.register(RouterConfiguration.customize({ resolutionMode: 'static' })).app(MyApp).start();
