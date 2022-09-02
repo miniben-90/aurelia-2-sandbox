@@ -8,12 +8,12 @@
   },
   "license": "UNLICENSED",
   "dependencies": {
-    "aurelia": "^2.0.0-alpha.37"
+    "aurelia": "^2.0.0-alpha.39"
   },
   "devDependencies": {
-    "@aurelia/testing": "^2.0.0-alpha.37",
-    "@aurelia/ts-jest": "^2.0.0-alpha.37",
-    "@aurelia/webpack-loader": "^2.0.0-alpha.37",
+    "@aurelia/testing": "^2.0.0-alpha.39",
+    "@aurelia/ts-jest": "^2.0.0-alpha.39",
+    "@aurelia/webpack-loader": "^2.0.0-alpha.39",
     "@types/jest": "^28.1.1",
     "@types/node": "^17.0.41",
     "@typescript-eslint/eslint-plugin": "^5.27.1",
